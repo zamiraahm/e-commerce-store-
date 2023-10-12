@@ -147,7 +147,7 @@ namespace API.Data
                     Description =
                         "A psychological thriller by Paula Hawkins",
                     Price = 1400,
-                    PictureUrl = "/images/products/glove-react2.png",
+                    PictureUrl = "/images/products/thegirl.png",
                     Author = "Paula Hawkins",
                     Genre = "Mystery/Thriller",
                     QuantityInStock = 100

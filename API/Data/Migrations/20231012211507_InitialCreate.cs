@@ -20,8 +20,8 @@ namespace API.Data.Migrations
                     Description = table.Column<string>(type: "TEXT", nullable: true),
                     Price = table.Column<long>(type: "INTEGER", nullable: false),
                     PictureUrl = table.Column<string>(type: "TEXT", nullable: true),
-                    Type = table.Column<string>(type: "TEXT", nullable: true),
-                    Brand = table.Column<string>(type: "TEXT", nullable: true),
+                    Genre = table.Column<string>(type: "TEXT", nullable: true),
+                    Author = table.Column<string>(type: "TEXT", nullable: true),
                     QuantityInStock = table.Column<int>(type: "INTEGER", nullable: false)
                 },
                 constraints: table =>
