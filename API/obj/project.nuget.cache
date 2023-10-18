@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6X9ilICePDWrqq0M7BsmbTP8q8T6CEAxyWEL5aB8pKYYVDivap7cDdTsb8kolSTyE2w7DODh4hKgMDEcGsq8LA==",
+  "dgSpecHash": "n23v+zJ7lmaTdeHqVemHt+cX2YqXfktVIvSWsRObsltR618RfDZv5UWVE780wG08KRqGZuPeRqfCx1YZ/Aniqg==",
   "success": true,
-  "projectFilePath": "/Users/zamira/Desktop/ded/e-commerce-store-/API/API.csproj",
+  "projectFilePath": "/Users/zamira/Desktop/jdkq/e-commerce-store-/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/zamira/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/zamira/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
