@@ -2,6 +2,7 @@ import { createAsyncThunk, createEntityAdapter, createSlice } from "@reduxjs/too
 import { Product, ProductParams } from "../../app/models/product";
 import agent from "../../app/api/agents";
 import { RootState } from "../../app/store/configureStore";
+import { MetaData } from "../../app/models/pagination";
 
 interface CatalogState {
     productsLoaded: boolean;
@@ -10,6 +11,7 @@ interface CatalogState {
     authors: string[];
     genres: string[];
     productParams : ProductParams;
+    metaData: MetaData | null;
 }
 
 const productsAdapter=createEntityAdapter<Product>();
@@ -30,7 +32,9 @@ export const fetchProductsAsync=createAsyncThunk<Product[], void, {state: RootSt
     async(_,thunkAPI)=>{
         const params = getAxiosParams(thunkAPI.getState().catalog.productParams);
         try{
-            return await agent.Catalog.list(params);
+            const response = await agent.Catalog.list(params);
+            thunkAPI.dispatch(setMetaData(response.metaData));
+            return response.items;
         }catch(error){
             return thunkAPI.rejectWithValue(error)
         }
@@ -74,13 +78,17 @@ export const catalogSlice=createSlice({
         status:'idle',
         authors: [],
         genres : [],
-        productParams: initParams()
+        productParams: initParams(),
+        metaData: null
 
     }),
     reducers:{
         setProductParams: (state, action) => {
             state.productsLoaded = false;
             state.productParams = {...state.productParams, ...action.payload};
+        },
+        setMetaData: (state, action) => {
+            state.metaData = action.payload;
         },
         resetProductParams : (state) => {
             state.productParams = initParams();
@@ -127,5 +135,5 @@ export const catalogSlice=createSlice({
 })
 export const productSelectors=productsAdapter.getSelectors((state:RootState)=>state.catalog);
 
-export const {setProductParams, resetProductParams} = catalogSlice.actions;
+export const {setProductParams, resetProductParams, setMetaData} = catalogSlice.actions;
 
