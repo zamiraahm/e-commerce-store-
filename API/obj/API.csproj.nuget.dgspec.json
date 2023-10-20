@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zamira/Desktop/nj/e-commerce-store-/API/API.csproj": {}
+    "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj": {}
   },
   "projects": {
-    "/Users/zamira/Desktop/nj/e-commerce-store-/API/API.csproj": {
+    "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zamira/Desktop/nj/e-commerce-store-/API/API.csproj",
+        "projectUniqueName": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/zamira/Desktop/nj/e-commerce-store-/API/API.csproj",
-        "packagesPath": "/Users/zamira/.nuget/packages/",
-        "outputPath": "/Users/zamira/Desktop/nj/e-commerce-store-/API/obj/",
+        "projectPath": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj",
+        "packagesPath": "C:\\Users\\Liza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zamira/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Liza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +40,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.5, )"
@@ -49,6 +59,12 @@
               "version": "[7.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.12, )"
             },
@@ -76,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
