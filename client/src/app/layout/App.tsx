@@ -9,6 +9,7 @@ import { useAppDispatch } from "../store/configureStore";
 import { fetchBasketAsync } from "../../features/basket/basketSlice";
 import { fetchCurrentUser } from "../../features/account/accountSlice";
 
+
 function App() {
   const dispatch= useAppDispatch(); 
   const [loading, setLoading] = useState(true);

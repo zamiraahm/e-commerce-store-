@@ -2330,24 +2330,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/zamira/.nuget/packages/": {}
+    "C:\\Users\\Liza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zamira/Desktop/w/e-commerce-store-/API/API.csproj",
+      "projectUniqueName": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/zamira/Desktop/w/e-commerce-store-/API/API.csproj",
-      "packagesPath": "/Users/zamira/.nuget/packages/",
-      "outputPath": "/Users/zamira/Desktop/w/e-commerce-store-/API/obj/",
+      "projectPath": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj",
+      "packagesPath": "C:\\Users\\Liza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/zamira/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Liza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2418,7 +2420,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
