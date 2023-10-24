@@ -36,7 +36,7 @@ namespace API.Data
                     Name = "The Catcher in the Rye",
                     Description =
                         " A classic novel by J.D. Salinger.",
-                    Price = 10,
+                    Price = 1000,
                     PictureUrl = "/images/products/thecatcher.jpeg",
                     Author = "J.D. Salinger",
                     Genre = "Fiction",
@@ -46,7 +46,7 @@ namespace API.Data
                 {
                     Name = "To Kill a Mockingbird",
                     Description = "A Pulitzer Prize-winning novel by Harper Lee",
-                    Price = 15,
+                    Price = 1500,
                     PictureUrl = "/images/products/tokill.jpeg",
                     Author = "Harper Lee",
                     Genre = "Fiction",
@@ -57,7 +57,7 @@ namespace API.Data
                     Name = "1984",
                     Description =
                         "A dystopian novel by George Orwell",
-                    Price = 16,
+                    Price = 1600,
                     PictureUrl = "/images/products/1984.jpeg",
                     Author = "George Orwell",
                     Genre = "Fiction",
@@ -68,7 +68,7 @@ namespace API.Data
                     Name = "The Hobbit",
                     Description =
                         "A fantasy novel by J.R.R. Tolkien",
-                    Price = 23,
+                    Price = 2300,
                     PictureUrl = "/images/products/thehobbit.jpeg",
                     Author = "J.R.R. Tolkien",
                     Genre = "Fantasy",
@@ -79,7 +79,7 @@ namespace API.Data
                     Name = "The Great Gatsby",
                     Description =
                         "A classic novel by F. Scott Fitzgerald",
-                    Price = 43,
+                    Price = 4300,
                     PictureUrl = "/images/products/thegreat.jpeg",
                     Author = " F. Scott Fitzgerald",
                     Genre = "Fiction",
@@ -90,7 +90,7 @@ namespace API.Data
                     Name = "Harry Potter and the Sorcerer's Stone",
                     Description =
                         "The first book in the Harry Potter series by J.K. Rowling",
-                    Price = 32,
+                    Price = 3200,
                     PictureUrl = "/images/products/harrypotter.jpeg",
                     Author = " J.K. Rowling",
                     Genre = "Fantasy",
@@ -123,7 +123,7 @@ namespace API.Data
                     Name = "The Lord of the Rings",
                     Description =
                         "A fantasy epic by J.R.R. Tolkien",
-                    Price = 55,
+                    Price = 5500,
                     PictureUrl = "/images/products/thelord.jpeg",
                     Author = "J.R.R. Tolkien",
                     Genre = "Fantasy",
@@ -178,7 +178,7 @@ namespace API.Data
                     Name = "The Alchemist",
                     Description =
                         "A philosophical novel by Paulo Coelho",
-                    Price = 25000,
+                    Price = 2500,
                     PictureUrl = "/images/products/thealchemist.jpeg",
                     Author = "Paulo Coelho",
                     Genre = "Fiction",
@@ -189,7 +189,7 @@ namespace API.Data
                     Name = "The Road",
                     Description =
                         "A post-apocalyptic novel by Cormac McCarthy",
-                    Price = 18999,
+                    Price = 1899,
                     PictureUrl = "/images/products/theroad.jpeg",
                     Author = "Cormac McCarthy",
                     Genre = "Fiction",
@@ -200,7 +200,7 @@ namespace API.Data
                     Name = "The Martian",
                     Description =
                         "A science fiction novel by Andy Weir",
-                    Price = 19999,
+                    Price = 1999,
                     PictureUrl = "/images/products/themartian.jpeg",
                     Author = "Andy Weir",
                     Genre = "Science Fiction",
@@ -210,7 +210,7 @@ namespace API.Data
                 {
                     Name = "The Silent Patient",
                     Description = "A psychological thriller by Alex Michaelides",
-                    Price = 15000,
+                    Price = 1500,
                     PictureUrl = "/images/products/thesilentpatient.jpeg",
                     Author = "Alex Michaelides",
                     Genre = "Mystery/Thriller",
@@ -221,7 +221,7 @@ namespace API.Data
                     Name = "The Fault in Our Stars",
                     Description =
                         "A young adult novel by John Green",
-                    Price = 18000,
+                    Price = 1800,
                     PictureUrl = "/images/products/thefault.jpeg",
                     Author = "John Green",
                     Genre = "Young Adult",
