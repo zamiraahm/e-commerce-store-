@@ -19,7 +19,7 @@ const sortOptions = [
 
 export default function Catalog(){
     const products=useAppSelector(productSelectors.selectAll);
-    const {productsLoaded, status , filtersLoaded, authors, genres, productParams, metaData}=useAppSelector(state=>state.catalog);
+    const {productsLoaded, /*status ,*/ filtersLoaded, authors, genres, productParams, metaData}=useAppSelector(state=>state.catalog);
     const dispatch=useAppDispatch();
     
 
