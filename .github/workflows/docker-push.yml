@@ -1,16 +1,12 @@
 name: docker-push
 
 on:
-workflow_dispatch:
- # push:
-  #  branches:
-   #   - 'main'
+  workflow_dispatch:
 
 jobs:
   docker:
     runs-on: ubuntu-latest
     steps:
-      
       -
         name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
@@ -24,6 +20,6 @@ jobs:
         name: Build and push
         uses: docker/build-push-action@v5
         with:
-          context: "{{defaultContext}}:API"
+          context: "path/to/your/context:API"  # Specify the correct context path
           push: true
           tags: lizableta/e-commerce-store:latest
