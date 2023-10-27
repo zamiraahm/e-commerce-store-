@@ -20,6 +20,6 @@ jobs:
         name: Build and push
         uses: docker/build-push-action@v5
         with:
-          context: API  # Specify the correct context path
+          context: "{{defaultContext}}:API"
           push: true
           tags: lizableta/e-commerce-store:latest
