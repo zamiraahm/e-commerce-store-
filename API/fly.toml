@@ -1,0 +1,22 @@
+# fly.toml app configuration file generated for ebookstoore on 2023-10-27T13:19:31+02:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "ebookstoore"
+primary_region = "otp"
+
+[build]
+  image = "lizableta/e-commerce-store:latest"
+
+[env]
+  ASPNETCORE_URLS="http://+:8080"
+  StripeSettings__PublishableKey="pk_test_51O4ifEBLE3JxCn2qpOm0Bbi4IreiMewjllySNb2acY1p86v7wdI9rjm4Lhfem91EpGbRLFhw928XlefaI7NwAlvZ007rzathIs"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zamira/Desktop/g/e-commerce-store-/API/API.csproj": {}
+    "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj": {}
   },
   "projects": {
-    "/Users/zamira/Desktop/g/e-commerce-store-/API/API.csproj": {
+    "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zamira/Desktop/g/e-commerce-store-/API/API.csproj",
+        "projectUniqueName": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/zamira/Desktop/g/e-commerce-store-/API/API.csproj",
-        "packagesPath": "/Users/zamira/.nuget/packages/",
-        "outputPath": "/Users/zamira/Desktop/g/e-commerce-store-/API/obj/",
+        "projectPath": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\API.csproj",
+        "packagesPath": "C:\\Users\\Liza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zamira/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Liza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,6 +68,10 @@
               "target": "Package",
               "version": "[7.0.12, )"
             },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Stripe.net": {
               "target": "Package",
               "version": "[43.0.0, )"
@@ -94,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
