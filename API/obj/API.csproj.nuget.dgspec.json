@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zamira/Desktop/n/e-commerce-store-/API/API.csproj": {}
+    "/Users/zamira/Desktop/ss/e-commerce-store-/API/API.csproj": {}
   },
   "projects": {
-    "/Users/zamira/Desktop/n/e-commerce-store-/API/API.csproj": {
+    "/Users/zamira/Desktop/ss/e-commerce-store-/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zamira/Desktop/n/e-commerce-store-/API/API.csproj",
+        "projectUniqueName": "/Users/zamira/Desktop/ss/e-commerce-store-/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/zamira/Desktop/n/e-commerce-store-/API/API.csproj",
+        "projectPath": "/Users/zamira/Desktop/ss/e-commerce-store-/API/API.csproj",
         "packagesPath": "/Users/zamira/.nuget/packages/",
-        "outputPath": "/Users/zamira/Desktop/n/e-commerce-store-/API/obj/",
+        "outputPath": "/Users/zamira/Desktop/ss/e-commerce-store-/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zamira/.nuget/NuGet/NuGet.Config"
@@ -68,7 +68,7 @@
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.11, )"
             },
             "Stripe.net": {
               "target": "Package",

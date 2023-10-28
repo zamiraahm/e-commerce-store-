@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "odi3eU3cxWwK6B8m/kw68qwh4WBVS916elNnJ4i0qq71xVJiTGGoZXLxvT0DWSp1+q2vHZBk+NqSsPa63aZ+Yw==",
+  "dgSpecHash": "ltnl9ttd2TQaCJvrsJrQkMvjWwB24lYhPRR6lhC6W+LdZjhSjy+rizK4VKBiLJzIcLJKMhz/RjQRstcXhGLN3Q==",
   "success": true,
-  "projectFilePath": "/Users/zamira/Desktop/n/e-commerce-store-/API/API.csproj",
+  "projectFilePath": "/Users/zamira/Desktop/ss/e-commerce-store-/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/zamira/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/zamira/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.12/microsoft.aspnetcore.authentication.jwtbearer.7.0.12.nupkg.sha512",
@@ -42,8 +42,8 @@
     "/Users/zamira/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/Users/zamira/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/Users/zamira/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
-    "/Users/zamira/.nuget/packages/npgsql/7.0.1/npgsql.7.0.1.nupkg.sha512",
-    "/Users/zamira/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.1/npgsql.entityframeworkcore.postgresql.7.0.1.nupkg.sha512",
+    "/Users/zamira/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512",
+    "/Users/zamira/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.11/npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "/Users/zamira/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "/Users/zamira/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
     "/Users/zamira/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
