@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ltnl9ttd2TQaCJvrsJrQkMvjWwB24lYhPRR6lhC6W+LdZjhSjy+rizK4VKBiLJzIcLJKMhz/RjQRstcXhGLN3Q==",
+  "dgSpecHash": "cZQTYQkZMG6NNDQGSmbPrxLTI2eYMlOTjybMdsIrUdOhPSZ889gIqDhwIky9ryZeMG29sQqph9EReAaIoYKDog==",
   "success": true,
-  "projectFilePath": "/Users/zamira/Desktop/ss/e-commerce-store-/API/API.csproj",
+  "projectFilePath": "/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/zamira/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/zamira/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.12/microsoft.aspnetcore.authentication.jwtbearer.7.0.12.nupkg.sha512",
