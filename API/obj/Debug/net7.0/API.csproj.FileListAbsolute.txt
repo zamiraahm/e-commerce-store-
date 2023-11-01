@@ -1793,3 +1793,5 @@ C:/Users/Liza/Desktop/e-commerce-store-/api/bin/Debug/net7.0/Npgsql.EntityFramew
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/obj/Debug/net7.0/API.pdb
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/obj/Debug/net7.0/ref/API.dll
+/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
