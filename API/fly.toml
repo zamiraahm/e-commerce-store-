@@ -9,9 +9,6 @@ primary_region = "otp"
 [build]
   image = "lizableta/e-commerce-store:latest"
 
-[env]
-  ASPNETCORE_URLS="http://+:8080"
-  StripeSettings__PublishableKey="pk_test_51O4ifEBLE3JxCn2qpOm0Bbi4IreiMewjllySNb2acY1p86v7wdI9rjm4Lhfem91EpGbRLFhw928XlefaI7NwAlvZ007rzathIs"
 
 [http_service]
   internal_port = 8080
