@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKkoF7KUOUw2wqTF+eJ+ajQufsAVsBcWgUUUaca7Q/HCDK3/bctjCe9CfdqcOWwbhJ8mWf2W8FaXQWHrudo3DQ==",
+  "dgSpecHash": "9uWXVC3gPtoUpMLspuGyl5n6M731GPzjlIZOrQktUB2fdYGAF0O0WWekL30Pgs9k4Rv1nFfp2iNWA77jZzVsxQ==",
   "success": true,
-  "projectFilePath": "/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/API.csproj",
+  "projectFilePath": "/Users/zamira/Desktop/ecs/e-commerce-store-/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/zamira/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/zamira/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

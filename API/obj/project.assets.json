@@ -2924,11 +2924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/API.csproj",
+      "projectUniqueName": "/Users/zamira/Desktop/ecs/e-commerce-store-/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/API.csproj",
+      "projectPath": "/Users/zamira/Desktop/ecs/e-commerce-store-/API/API.csproj",
       "packagesPath": "/Users/zamira/.nuget/packages/",
-      "outputPath": "/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/obj/",
+      "outputPath": "/Users/zamira/Desktop/ecs/e-commerce-store-/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zamira/.nuget/NuGet/NuGet.Config"
