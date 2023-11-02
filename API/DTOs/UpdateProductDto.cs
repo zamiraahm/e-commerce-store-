@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace API.DTOs
 {
-    public class CreateProductDto
+    public class UpdateProductDto
     {
+        public int Id {get; set;}
+
         [Required]
         public string Name { get; set; }
 

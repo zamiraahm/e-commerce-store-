@@ -1703,6 +1703,8 @@ C:/Users/Liza/Desktop/e-commerce-store-/api/bin/Debug/net7.0/Npgsql.EntityFramew
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/API.runtimeconfig.json
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/API.dll
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/API.pdb
+/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/Humanizer.dll
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -1793,5 +1795,3 @@ C:/Users/Liza/Desktop/e-commerce-store-/api/bin/Debug/net7.0/Npgsql.EntityFramew
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/obj/Debug/net7.0/API.pdb
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/obj/Debug/net7.0/ref/API.dll
-/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/AutoMapper.dll
-/Users/zamira/Desktop/popopopopopo/e-commerce-store-/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
