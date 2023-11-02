@@ -11,5 +11,6 @@ namespace API.Entities
         public string Genre { get; set; }
         public string Author { get; set; }
         public int QuantityInStock { get; set; }
+        public string PublicId { get; set; }
     }
 } 
