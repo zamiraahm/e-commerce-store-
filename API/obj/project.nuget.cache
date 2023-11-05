@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LFdPPe9+7pqhfkjBqFBCkpUwTEr+o+btsr6fbQ4HFD2V1DdOZ+vsmWNzODvhT6gANSIrepsLBrMUAWnZcTW2pg==",
+  "dgSpecHash": "+aPG9PsCk3Y0+vgnQrGfNLvnLi/PjqF2kx7kCVpcw2JrL9WnlsldyR2a9jpiV5haVwP4idhZ3lGv7cnJmzTQ5g==",
   "success": true,
-  "projectFilePath": "/Users/zamira/Desktop/ecs/e-commerce-store-/API/API.csproj",
+  "projectFilePath": "/Users/zamira/e-commerce-store--10/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/zamira/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/zamira/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
