@@ -35,18 +35,18 @@ export const fetchProductsAsync=createAsyncThunk<Product[], void, {state: RootSt
             const response = await agent.Catalog.list(params);
             thunkAPI.dispatch(setMetaData(response.metaData));
             return response.items;
-        }catch(error){
-            return thunkAPI.rejectWithValue(error)
+        }catch(error: any){
+            return thunkAPI.rejectWithValue({error: error.data})
         }
     }
 )
 export const fetchProductAsync=createAsyncThunk<Product,number>(
     'catalog/fetchProductAsync',
-    async(productId,thunkAPI)=>{
+    async(productId,thunkAPI) => {
         try{
-            return await agent.Catalog.details(productId);
-        }catch(error){
-            return thunkAPI.rejectWithValue({error})
+            return await agent.Catalog.details(productId)
+        }catch(error: any){
+            return thunkAPI.rejectWithValue({error: error.data})
         }
     }
 )
@@ -57,7 +57,7 @@ export const fetchFilters = createAsyncThunk(
         try {
             return agent.Catalog.fetchFilters();
         } catch (error : any) {
-            return thunkAPI.rejectWithValue({error: error.data})
+            return thunkAPI.rejectWithValue({error: error.data});
         }
     }
 )
@@ -98,6 +98,9 @@ export const catalogSlice=createSlice({
         },
         resetProductParams : (state) => {
             state.productParams = initParams();
+        },
+        setProduct: (state, action) => {
+            productsAdapter.upsertOne(state, action.payload);
         }
     },
     extraReducers:(builder=>{
@@ -141,5 +144,5 @@ export const catalogSlice=createSlice({
 })
 export const productSelectors=productsAdapter.getSelectors((state:RootState)=>state.catalog);
 
-export const {setProductParams, resetProductParams, setMetaData, setPageNumber } = catalogSlice.actions;
+export const {setProductParams, resetProductParams, setMetaData, setPageNumber, setProduct } = catalogSlice.actions;
 

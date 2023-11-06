@@ -5860,11 +5860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zamira/e-commerce-store--10/API/API.csproj",
+      "projectUniqueName": "/Users/zamira/Desktop/cds/e-commerce-store-/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/zamira/e-commerce-store--10/API/API.csproj",
+      "projectPath": "/Users/zamira/Desktop/cds/e-commerce-store-/API/API.csproj",
       "packagesPath": "/Users/zamira/.nuget/packages/",
-      "outputPath": "/Users/zamira/e-commerce-store--10/API/obj/",
+      "outputPath": "/Users/zamira/Desktop/cds/e-commerce-store-/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zamira/.nuget/NuGet/NuGet.Config"
