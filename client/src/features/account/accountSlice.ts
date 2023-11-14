@@ -61,8 +61,9 @@ export const accountSlice = createSlice({
         },
         setUser: (state, action) => {
             const claims = JSON.parse(atob(action.payload.token.split('.')[1]));
-            let roles = claims['http://schemas.microsoft.com/ws/2008/06/identity/claims/role'];
-            state.user = {...action.payload, roles: typeof(roles) === 'string' ? [roles] : roles}
+            const roles: any = claims['http://schemas.microsoft.com/ws/2008/06/identity/claims/role'];
+            state.user = {...action.payload, roles: typeof roles === 'string' ? [roles] : roles};
+            
         }
     },
     extraReducers: (builder =>{
@@ -74,8 +75,9 @@ export const accountSlice = createSlice({
         })
         builder.addMatcher(isAnyOf(signInUser.fulfilled, fetchCurrentUser.fulfilled), (state, action)=>{
             const claims = JSON.parse(atob(action.payload.token.split('.')[1]));
-            let roles = claims['http://schemas.microsoft.com/ws/2008/06/identity/claims/role'];
-            state.user = {...action.payload, roles: typeof(roles) === 'string' ? [roles] : roles}
+            const roles: any = claims['http://schemas.microsoft.com/ws/2008/06/identity/claims/role'];
+            state.user = {...action.payload, roles: typeof roles === 'string' ? [roles] : roles};
+            
         });
         builder.addMatcher(isAnyOf(signInUser.rejected), (_state, action) =>{
             throw action.payload;

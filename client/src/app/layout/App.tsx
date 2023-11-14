@@ -52,7 +52,7 @@ function App() {
       <Header darkMode={darkMode} handleThemeChange={handleThemeChange}/>
       {loading ? <LoadingComponent message="Initialising app..."/>
         : location.pathname === '/' ? <HomePage/>
-          : <Container sx={{mt: 4}}>
+          : <Container sx={{mt: 4}} >
             <Outlet/>
             </Container>
     }

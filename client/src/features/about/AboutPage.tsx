@@ -1,36 +1,58 @@
-import React, { useState } from "react";
-import agent from "../../app/api/agents";
-import aboutImage from "./images/your_image.jpg";
-import { Alert, AlertTitle, Button, ButtonGroup, Container, List, ListItem, ListItemText, Typography } from "@mui/material";
+import { Button, Container, Typography } from "@mui/material";
+import Slider from "react-slick";
+import { useNavigate } from "react-router-dom";
+
 
 export default function AboutPage() {
-    const [validationErrors, setValidationErrors] = useState<string[]>([]);
+  const settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+  };
 
-    function getValidationError() {
-        agent.TestErrors.getValidationError()
-            .then(() => console.log('should not see this'))
-            .catch(error => setValidationErrors(error));
-    }
+  const navigate = useNavigate();
 
-    const imageStyle = {
-        width: "80%",  // Adjust the width as needed
-        maxWidth: "100%",  // Ensure the image doesn't exceed its original width
-        height: "auto",  // Maintain the aspect ratio
-        display: "block",  // Center the image horizontally
-        margin: "0 auto",  // Center the image horizontally
-    };
+  const handleOrderNowClick = () => {
+    navigate('/catalog');
+  };
 
-    return (
+  return (
+    <>
+      <Slider {...settings}>
         <div>
-            <h1>About Us</h1>
-            <p>Welcome to our website! </p>
-            <p>
-                – Your Ultimate Destination for Ordering and Owning the Best Books!
-
-                At eBook, we are dedicated to providing you with a seamless experience for purchasing and ordering books. Our mission is to connect book enthusiasts with their favorite reads while offering convenience and a wide selection.
-            </p>
-            <img src="/images/aboutPage.jpeg" alt="Description of the image" style={imageStyle}/>
-
+          <img
+            src="/images/abtpg.jpg"
+            alt="book1"
+            style={{ display: 'block', width: '100%', maxHeight: 500 }}
+          />
         </div>
-    );
+      </Slider>
+      <Container
+        style={{
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          height: "50vh",
+        }}
+      >
+        <Typography variant="h4" gutterBottom style={{fontFamily: 'Lustria'}}>
+          About us
+        </Typography>
+        <Typography variant="body1" paragraph style={{fontFamily: 'Lustria'}}>
+          At our Book Online shop, we are passionate about connecting book lovers with their favorite reads. We believe in the power of books to inspire, educate, and entertain. Whether you're searching for the latest bestsellers, timeless classics, or niche genres,
+           we have a wide selection to cater to every reader's taste. Our dedicated team is committed to curating a diverse collection of books, ensuring there's something for everyone.
+            We take pride in offering a seamless and user-friendly browsing experience, making it easy for you to explore our catalog and find your next literary adventure. With our Book Online shop, you can discover new authors, uncover hidden gems, 
+            and dive into captivating narratives. You can order now!!
+        </Typography>
+        <Button variant="contained"  onClick={handleOrderNowClick} style={{fontFamily: 'Lustria'}}>
+          Order now
+        </Button>
+      </Container>
+    </>
+  );
 }
+
+

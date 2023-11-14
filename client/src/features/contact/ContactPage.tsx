@@ -1,26 +1,73 @@
-import { Button, ButtonGroup, Typography } from "@mui/material";
-import { useAppDispatch, useAppSelector } from "../../app/store/configureStore";
-import { decrement, increment } from "./counterSlice";
+import { Box, Typography } from "@mui/material";
+import { Email, Phone } from "@mui/icons-material";
 
 export default function ContactPage() {
-  const dispatch = useAppDispatch();
-  useAppSelector(state => state.counter);
+    return (
+        <Box display="flex" flexDirection="row" alignItems="center" justifyContent="center" marginTop={4}>
+            <Box
+                bgcolor="#345457"
+                padding={4}
+                borderRadius={10}
+                marginRight={2}
+                marginTop={10}
+                height={500}
+            >
+                <Box
+                    display="flex"
+                    flexDirection="column"
+                    alignItems="center"
+                    border="1px solid white"
+                    borderRadius={10}
+                    padding={2}
+                    margin={2}
+                    width={350}
+                    marginTop={14}
+                >
+                    <img src="/images/mail (1).png" alt="" style={{ width: 80 }} />
+                    <Typography variant="body1" style={{ fontSize: 16, textAlign: "center",color:"white" }}>
+                        If you have any concerns or comments, please let us know by email.
+                    </Typography>
+                    <Box display="flex" alignItems="center" marginTop={2}>
+                        <Email style={{ fontSize: 40, color: "white" }} />
+                        <Typography variant="body1" style={{ fontSize: 16, marginLeft: 10,color:"white" }}>
+                            bookify@gmail.com
+                        </Typography>
+                    </Box>
+                </Box>
+            </Box>
 
-  return (
-    <div>
-      <h1>Contact us</h1>
-      <p>We'd love to hear from you! Whether you have questions, feedback, or just want to say hello, there are multiple ways to get in touch with us.</p>
-
-      <ul>
-        <li>
-          Email: <a href="mailto:ebook@gmail.com">ebook@gmail.com</a>
-        </li>
-        <li>
-          Phone Number: +1 (123) 555-6789
-          <ul>  
-          </ul>
-        </li>
-      </ul>
-    </div>
-  );
+            <Box
+                bgcolor="#345457"
+                padding={4}
+                borderRadius={10}
+                marginLeft={2}
+                marginTop={10}
+                height={500}
+            >
+                <Box
+                    display="flex"
+                    flexDirection="column"
+                    alignItems="center"
+                    border="1px solid white"
+                    borderRadius={10}
+                    padding={2}
+                    margin={2}
+                    width={350}
+                    marginTop={14}
+                >
+                    <img src="/images/phone-call.png" alt="" style={{ width: 80 }} />
+                    <Typography variant="body1" style={{ fontSize: 16, textAlign: "center",color:"white" }}>
+                        Or you can call us by phone and our agents will be ready to answer
+                    </Typography>
+                    <Box display="flex" alignItems="center" marginTop={2}>
+                        <Phone style={{ fontSize: 40, color: "green" }} />
+                        <Typography variant="body1" style={{ fontSize: 16, marginLeft: 10 ,color:"white"}}>
+                            123-456-7890
+                        </Typography>
+                    </Box>
+                </Box>
+            </Box>
+        </Box>
+    );
 }
+
