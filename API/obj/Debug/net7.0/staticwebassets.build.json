@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E0hahA9rsu9rpqp5stfDI6ngYi2lu+o/JRY6gFhfEWc=",
+  "Hash": "84VUAk+5kKrQgeJYfuX8QfHY0XYe39ON6y7s2ETR82U=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "API\\wwwroot",
+      "Name": "API/wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\ajax-loader-e7b44c86.gif",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/ajax-loader-e7b44c86.gif",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/ajax-loader-e7b44c86.gif",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\ajax-loader-e7b44c86.gif"
+      "OriginalItemSpec": "wwwroot/assets/ajax-loader-e7b44c86.gif"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\index-c231e92f.css",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/index-c231e92f.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/index-c231e92f.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-c231e92f.css"
+      "OriginalItemSpec": "wwwroot/assets/index-c231e92f.css"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\index-c53134c4.js",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/index-c53134c4.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/index-c53134c4.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-c53134c4.js"
+      "OriginalItemSpec": "wwwroot/assets/index-c53134c4.js"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-300-normal-47aa3bfa.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-300-normal-47aa3bfa.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-300-normal-47aa3bfa.woff2",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-300-normal-47aa3bfa.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-300-normal-47aa3bfa.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-300-normal-c07952fe.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-300-normal-c07952fe.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-300-normal-c07952fe.woff",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-300-normal-c07952fe.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-300-normal-c07952fe.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-400-normal-495d38d4.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-400-normal-495d38d4.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-400-normal-495d38d4.woff2",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-400-normal-495d38d4.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-400-normal-495d38d4.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-400-normal-adba67d2.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-400-normal-adba67d2.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-400-normal-adba67d2.woff",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-400-normal-adba67d2.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-400-normal-adba67d2.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-500-normal-3728fbdd.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-500-normal-3728fbdd.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-500-normal-3728fbdd.woff2",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-500-normal-3728fbdd.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-500-normal-3728fbdd.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-500-normal-4bc088e9.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-500-normal-4bc088e9.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-500-normal-4bc088e9.woff",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-500-normal-4bc088e9.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-500-normal-4bc088e9.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-700-normal-6a84eeee.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-700-normal-6a84eeee.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-700-normal-6a84eeee.woff2",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-700-normal-6a84eeee.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-700-normal-6a84eeee.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-700-normal-6f82c5e2.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-700-normal-6f82c5e2.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-700-normal-6f82c5e2.woff",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-700-normal-6f82c5e2.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-700-normal-6f82c5e2.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-435e4b7f.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-ext-300-normal-435e4b7f.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-300-normal-435e4b7f.woff2",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-300-normal-435e4b7f.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-ext-300-normal-435e4b7f.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-5e06c977.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-ext-300-normal-5e06c977.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-300-normal-5e06c977.woff",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-300-normal-5e06c977.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-ext-300-normal-5e06c977.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-0a32035a.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-ext-400-normal-0a32035a.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-400-normal-0a32035a.woff",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-400-normal-0a32035a.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-ext-400-normal-0a32035a.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-b7ef2cd1.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-ext-400-normal-b7ef2cd1.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-400-normal-b7ef2cd1.woff2",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-400-normal-b7ef2cd1.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-ext-400-normal-b7ef2cd1.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-57138788.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-ext-500-normal-57138788.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-500-normal-57138788.woff",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-500-normal-57138788.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-ext-500-normal-57138788.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-aeed0e51.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-ext-500-normal-aeed0e51.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-500-normal-aeed0e51.woff2",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-500-normal-aeed0e51.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-ext-500-normal-aeed0e51.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-3c505383.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-ext-700-normal-3c505383.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-700-normal-3c505383.woff2",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-700-normal-3c505383.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-ext-700-normal-3c505383.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-8ea7934f.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-cyrillic-ext-700-normal-8ea7934f.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-cyrillic-ext-700-normal-8ea7934f.woff",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-cyrillic-ext-700-normal-8ea7934f.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-cyrillic-ext-700-normal-8ea7934f.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-greek-300-normal-455c2c1a.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-greek-300-normal-455c2c1a.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-300-normal-455c2c1a.woff2",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-300-normal-455c2c1a.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-greek-300-normal-455c2c1a.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-greek-300-normal-6bb1ef10.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-greek-300-normal-6bb1ef10.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-300-normal-6bb1ef10.woff",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-300-normal-6bb1ef10.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-greek-300-normal-6bb1ef10.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-greek-400-normal-076b9dc1.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-greek-400-normal-076b9dc1.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-400-normal-076b9dc1.woff",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-400-normal-076b9dc1.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-greek-400-normal-076b9dc1.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-greek-400-normal-daf51ab5.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-greek-400-normal-daf51ab5.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-400-normal-daf51ab5.woff2",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-400-normal-daf51ab5.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-greek-400-normal-daf51ab5.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-greek-500-normal-713780d8.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-greek-500-normal-713780d8.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-500-normal-713780d8.woff2",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-500-normal-713780d8.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-greek-500-normal-713780d8.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-greek-500-normal-93181eb7.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-greek-500-normal-93181eb7.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-500-normal-93181eb7.woff",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-500-normal-93181eb7.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-greek-500-normal-93181eb7.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-greek-700-normal-1c9cc76f.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-greek-700-normal-1c9cc76f.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-700-normal-1c9cc76f.woff2",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-700-normal-1c9cc76f.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-greek-700-normal-1c9cc76f.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-greek-700-normal-3f1a5012.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-greek-700-normal-3f1a5012.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-greek-700-normal-3f1a5012.woff",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-greek-700-normal-3f1a5012.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-greek-700-normal-3f1a5012.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-300-normal-ddb5c61d.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-300-normal-ddb5c61d.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-300-normal-ddb5c61d.woff",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-300-normal-ddb5c61d.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-300-normal-ddb5c61d.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-300-normal-f7591131.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-300-normal-f7591131.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-300-normal-f7591131.woff2",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-300-normal-f7591131.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-300-normal-f7591131.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-400-normal-a9fdbefa.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-400-normal-a9fdbefa.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-400-normal-a9fdbefa.woff",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-400-normal-a9fdbefa.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-400-normal-a9fdbefa.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-400-normal-f6734f81.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-400-normal-f6734f81.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-400-normal-f6734f81.woff2",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-400-normal-f6734f81.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-400-normal-f6734f81.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-500-normal-3ac31048.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-500-normal-3ac31048.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-500-normal-3ac31048.woff",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-500-normal-3ac31048.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-500-normal-3ac31048.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-500-normal-b0195382.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-500-normal-b0195382.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-500-normal-b0195382.woff2",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-500-normal-b0195382.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-500-normal-b0195382.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-700-normal-d89bc0fc.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-700-normal-d89bc0fc.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-700-normal-d89bc0fc.woff",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-700-normal-d89bc0fc.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-700-normal-d89bc0fc.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-700-normal-f5aebdfe.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-700-normal-f5aebdfe.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-700-normal-f5aebdfe.woff2",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-700-normal-f5aebdfe.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-700-normal-f5aebdfe.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-ext-300-normal-35da7ccd.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-ext-300-normal-35da7ccd.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-300-normal-35da7ccd.woff",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-300-normal-35da7ccd.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-ext-300-normal-35da7ccd.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-ext-300-normal-b076e863.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-ext-300-normal-b076e863.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-300-normal-b076e863.woff2",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-300-normal-b076e863.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-ext-300-normal-b076e863.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-ext-400-normal-3c23eb02.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-ext-400-normal-3c23eb02.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-400-normal-3c23eb02.woff2",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-400-normal-3c23eb02.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-ext-400-normal-3c23eb02.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-ext-400-normal-c2b94086.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-ext-400-normal-c2b94086.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-400-normal-c2b94086.woff",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-400-normal-c2b94086.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-ext-400-normal-c2b94086.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-ext-500-normal-7f1c829b.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-ext-500-normal-7f1c829b.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-500-normal-7f1c829b.woff2",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-500-normal-7f1c829b.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-ext-500-normal-7f1c829b.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-ext-500-normal-a303676a.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-ext-500-normal-a303676a.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-500-normal-a303676a.woff",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-500-normal-a303676a.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-ext-500-normal-a303676a.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-ext-700-normal-3d1cbacf.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-ext-700-normal-3d1cbacf.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-700-normal-3d1cbacf.woff",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-700-normal-3d1cbacf.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-ext-700-normal-3d1cbacf.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-latin-ext-700-normal-fc66f942.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-latin-ext-700-normal-fc66f942.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-latin-ext-700-normal-fc66f942.woff2",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-latin-ext-700-normal-fc66f942.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-latin-ext-700-normal-fc66f942.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-vietnamese-300-normal-51f3f418.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-vietnamese-300-normal-51f3f418.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-300-normal-51f3f418.woff2",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-300-normal-51f3f418.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-vietnamese-300-normal-51f3f418.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-vietnamese-300-normal-7747ef64.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-vietnamese-300-normal-7747ef64.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-300-normal-7747ef64.woff",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-300-normal-7747ef64.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-vietnamese-300-normal-7747ef64.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-vietnamese-400-normal-77b24796.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-vietnamese-400-normal-77b24796.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-400-normal-77b24796.woff2",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-400-normal-77b24796.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-vietnamese-400-normal-77b24796.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-vietnamese-400-normal-d2390f1a.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-vietnamese-400-normal-d2390f1a.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-400-normal-d2390f1a.woff",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-400-normal-d2390f1a.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-vietnamese-400-normal-d2390f1a.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-vietnamese-500-normal-0948409a.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-vietnamese-500-normal-0948409a.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-500-normal-0948409a.woff2",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-500-normal-0948409a.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-vietnamese-500-normal-0948409a.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-vietnamese-500-normal-7899e6a5.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-vietnamese-500-normal-7899e6a5.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-500-normal-7899e6a5.woff",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-500-normal-7899e6a5.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-vietnamese-500-normal-7899e6a5.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-vietnamese-700-normal-4ec57f2a.woff2",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-vietnamese-700-normal-4ec57f2a.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-700-normal-4ec57f2a.woff2",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-700-normal-4ec57f2a.woff2"
+      "OriginalItemSpec": "wwwroot/assets/roboto-vietnamese-700-normal-4ec57f2a.woff2"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\roboto-vietnamese-700-normal-d986b503.woff",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/roboto-vietnamese-700-normal-d986b503.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/roboto-vietnamese-700-normal-d986b503.woff",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\roboto-vietnamese-700-normal-d986b503.woff"
+      "OriginalItemSpec": "wwwroot/assets/roboto-vietnamese-700-normal-d986b503.woff"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\assets\\slick-12459f22.svg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/assets/slick-12459f22.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "assets/slick-12459f22.svg",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\slick-12459f22.svg"
+      "OriginalItemSpec": "wwwroot/assets/slick-12459f22.svg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\ASHOKA BOOK_WEB SLIDER.png",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/ASHOKA BOOK_WEB SLIDER.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/ASHOKA BOOK_WEB SLIDER.png",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\ASHOKA BOOK_WEB SLIDER.png"
+      "OriginalItemSpec": "wwwroot/images/ASHOKA BOOK_WEB SLIDER.png"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\placeholder.png",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/placeholder.png",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\placeholder.png"
+      "OriginalItemSpec": "wwwroot/images/placeholder.png"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\1984.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/1984.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/1984.jpeg",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\1984.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/1984.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\gonegirl.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/gonegirl.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/gonegirl.jpeg",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\gonegirl.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/gonegirl.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\harrypotter.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/harrypotter.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/harrypotter.jpeg",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\harrypotter.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/harrypotter.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thealchemist.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thealchemist.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thealchemist.jpeg",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thealchemist.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/thealchemist.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thecatcher.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thecatcher.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thecatcher.jpeg",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thecatcher.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/thecatcher.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thedavincicode.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thedavincicode.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thedavincicode.jpeg",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thedavincicode.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/thedavincicode.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thefault.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thefault.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thefault.jpeg",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thefault.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/thefault.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thegirl.png",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thegirl.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thegirl.png",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thegirl.png"
+      "OriginalItemSpec": "wwwroot/images/products/thegirl.png"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thegirlonthetrain.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thegirlonthetrain.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thegirlonthetrain.jpeg",
       "AssetKind": "All",
@@ -1085,13 +1085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thegirlonthetrain.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/thegirlonthetrain.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thegreat.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thegreat.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thegreat.jpeg",
       "AssetKind": "All",
@@ -1102,13 +1102,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thegreat.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/thegreat.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thehobbit.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thehobbit.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thehobbit.jpeg",
       "AssetKind": "All",
@@ -1119,13 +1119,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thehobbit.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/thehobbit.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thelord.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thelord.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thelord.jpeg",
       "AssetKind": "All",
@@ -1136,13 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thelord.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/thelord.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\themartian.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/themartian.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/themartian.jpeg",
       "AssetKind": "All",
@@ -1153,13 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\themartian.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/themartian.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\theroad.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/theroad.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/theroad.jpeg",
       "AssetKind": "All",
@@ -1170,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\theroad.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/theroad.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\theshining.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/theshining.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/theshining.jpeg",
       "AssetKind": "All",
@@ -1187,13 +1187,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\theshining.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/theshining.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\thesilentpatient.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/thesilentpatient.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/thesilentpatient.jpeg",
       "AssetKind": "All",
@@ -1204,13 +1204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\thesilentpatient.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/thesilentpatient.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\products\\tokill.jpeg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/products/tokill.jpeg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/products/tokill.jpeg",
       "AssetKind": "All",
@@ -1221,13 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\tokill.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/tokill.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\Slider_Image_27_Short_Crime_Reads-960x430.png",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/Slider_Image_27_Short_Crime_Reads-960x430.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/Slider_Image_27_Short_Crime_Reads-960x430.png",
       "AssetKind": "All",
@@ -1238,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Slider_Image_27_Short_Crime_Reads-960x430.png"
+      "OriginalItemSpec": "wwwroot/images/Slider_Image_27_Short_Crime_Reads-960x430.png"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\images\\sliderbook.jpg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/images/sliderbook.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "images/sliderbook.jpg",
       "AssetKind": "All",
@@ -1255,13 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\sliderbook.jpg"
+      "OriginalItemSpec": "wwwroot/images/sliderbook.jpg"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\index.html",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -1272,13 +1272,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\vite.svg",
+      "Identity": "/Users/zamira/e-commerce-store--12/API/wwwroot/vite.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Liza\\Desktop\\e-commerce-store-\\api\\wwwroot\\",
+      "ContentRoot": "/Users/zamira/e-commerce-store--12/API/wwwroot/",
       "BasePath": "_content/API",
       "RelativePath": "vite.svg",
       "AssetKind": "All",
@@ -1289,7 +1289,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vite.svg"
+      "OriginalItemSpec": "wwwroot/vite.svg"
     }
   ]
 }
